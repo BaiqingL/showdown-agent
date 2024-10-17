@@ -1,0 +1,6 @@
+poke-env
+pandas
+requests
+javascript
+transformers
+python-dotenv
