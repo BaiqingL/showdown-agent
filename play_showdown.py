@@ -14,7 +14,7 @@ async def main():
         account_configuration=AccountConfiguration("showdown-dojo", ACCT_PASSWORD),
         server_configuration=ShowdownServerConfiguration,
         random_strategy=False,
-        local_llm=False,
+        use_local_llm=False,
     )
     print("Logged in, ready to play")
 
